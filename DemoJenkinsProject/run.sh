@@ -1,0 +1,1 @@
+java -cp "/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_6.14.3.r201802240500.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:bin" org.testng.TestNG testng.xml
